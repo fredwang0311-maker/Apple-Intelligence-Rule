@@ -1,0 +1,24 @@
+# Apple Intelligence / ChatGPT Rules
+# Generated from the user's screenshots
+# Policy: AI for Apple Intelligence and OpenAI related domains; DIRECT for specified exceptions
+
+DOMAIN-KEYWORD,rednotecdn.com,DIRECT
+DOMAIN-SUFFIX,humb.apple.com,AI
+DOMAIN-SUFFIX,apple-relay.apple.com,AI
+DOMAIN-SUFFIX,smoot.apple.com,AI
+DOMAIN-SUFFIX,guzzoni.apple.com,AI
+DOMAIN-SUFFIX,ingest.sentry.io,AI
+DOMAIN-SUFFIX,browser-intake-datadoghq.com,AI
+DOMAIN-SUFFIX,featureassets.org,AI
+DOMAIN-SUFFIX,prodregistryv2.org,AI
+DOMAIN-SUFFIX,openaimerge.com,AI
+DOMAIN-SUFFIX,workoscdn.com,AI
+DOMAIN-SUFFIX,workos.com,AI
+DOMAIN-SUFFIX,statsigapi.net,AI
+DOMAIN-SUFFIX,statsig.com,AI
+DOMAIN-SUFFIX,featuregates.org,AI
+DOMAIN-SUFFIX,oaiusercontent.com,AI
+DOMAIN-SUFFIX,oaistatic.com,AI
+DOMAIN-SUFFIX,openai.com,AI
+DOMAIN-SUFFIX,chatgpt.com,AI
+DOMAIN-SUFFIX,thy.com,DIRECT
